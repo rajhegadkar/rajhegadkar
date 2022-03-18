@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Raj Hegadkar Computer Enthusiast 💻
+- 👀 I’m interested in Web Devlopment ⌨...
+- 🌱 I’m currently learning  Android Devlopment 📱 ...
+- 📫 You Can Find Me On All Social Platforms ...
+
+<!---
+rajhegadkar/rajhegadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
