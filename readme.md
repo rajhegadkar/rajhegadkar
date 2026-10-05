@@ -230,10 +230,10 @@ Status       : 🟢 99.9% Systems Health | Available for Infrastructure Roles
   <a href="tel:+919284106151">
     <img src="https://img.shields.io/badge/Phone-+91_9284106151-60a5fa?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/rajhegadkar">
     <img src="https://img.shields.io/badge/LinkedIn-Rajendra_Hegadkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://YOUR_GITHUB_USERNAME.github.io/">
+  <a href="https://rajhegadkar.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Interactive_Site-10B981?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio">
   </a>
 
