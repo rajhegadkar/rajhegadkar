@@ -19,7 +19,7 @@
     <a href="mailto:hegadkarraj@gmail.com">
       <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-4dffaa?style=for-the-badge&logo=statuspage&logoColor=070b0a" alt="Open to Opportunities">
     </a>
-    <a href="https://github.com/rajhegadkar/rajhegadkar.github.io">
+    <a href="https://rajhegadkar.github.io">
       <img src="https://img.shields.io/badge/Portfolio-Live%20Website-60a5fa?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio">
     </a>
     <a href="https://linkedin.com/in/rajhegadkar">
