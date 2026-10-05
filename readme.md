@@ -214,10 +214,6 @@ Status       : 🟢 99.9% Systems Health | Available for Infrastructure Roles
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajhegadkar&layout=compact&theme=tokyonight&hide_border=true&title_color=4dffaa&text_color=f1f5f3&bg_color=0d1512" alt="Top Languages" width="48%">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajhegadkar&theme=tokyonight&hide_border=true&stroke=4dffaa&background=0d1512&ring=4dffaa&fire=4dffaa&currStreakLabel=4dffaa" alt="GitHub Streak" width="97%">
-</div>
-
 ---
 
 ## 📬 Connect With Me
