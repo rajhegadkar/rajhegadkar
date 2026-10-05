@@ -210,12 +210,12 @@ Status       : 🟢 99.9% Systems Health | Available for Infrastructure Roles
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=4dffaa&icon_color=4dffaa&text_color=f1f5f3&bg_color=0d1512" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=4dffaa&text_color=f1f5f3&bg_color=0d1512" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajhegadkar&show_icons=true&theme=tokyonight&hide_border=true&title_color=4dffaa&icon_color=4dffaa&text_color=f1f5f3&bg_color=0d1512" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajhegadkar&layout=compact&theme=tokyonight&hide_border=true&title_color=4dffaa&text_color=f1f5f3&bg_color=0d1512" alt="Top Languages" width="48%">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&stroke=4dffaa&background=0d1512&ring=4dffaa&fire=4dffaa&currStreakLabel=4dffaa" alt="GitHub Streak" width="97%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajhegadkar&theme=tokyonight&hide_border=true&stroke=4dffaa&background=0d1512&ring=4dffaa&fire=4dffaa&currStreakLabel=4dffaa" alt="GitHub Streak" width="97%">
 </div>
 
 ---
