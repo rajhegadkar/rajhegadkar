@@ -223,9 +223,6 @@ Status       : 🟢 99.9% Systems Health | Available for Infrastructure Roles
   <a href="mailto:hegadkarraj@gmail.com">
     <img src="https://img.shields.io/badge/Email-hegadkarraj%40gmail.com-4dffaa?style=for-the-badge&logo=gmail&logoColor=070b0a" alt="Email">
   </a>
-  <a href="tel:+919284106151">
-    <img src="https://img.shields.io/badge/Phone-+91_9284106151-60a5fa?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
-  </a>
   <a href="https://linkedin.com/in/rajhegadkar">
     <img src="https://img.shields.io/badge/LinkedIn-Rajendra_Hegadkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
