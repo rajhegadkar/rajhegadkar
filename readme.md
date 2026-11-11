@@ -11,7 +11,7 @@
   <p align="center">
     📍 <strong>Pune, Maharashtra, India</strong> &nbsp;|&nbsp;
     ✉️ <a href="mailto:hegadkarraj@gmail.com">hegadkarraj@gmail.com</a> &nbsp;|&nbsp;
-    📞 <a href="tel:+919284106151">+91 9284106151</a>
+  
   </p>
 
   <!-- Status & Quick Badges -->
